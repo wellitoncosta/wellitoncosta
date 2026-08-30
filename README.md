@@ -51,15 +51,6 @@ Estou a construir uma base sólida em **arquitetura de software, desenvolvimento
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wellitoncosta&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellitoncosta&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎓 Formação Académica
 
 **Instituto Superior Politécnico de Tecnologias e Ciências (ISPTEC)** — Angola
